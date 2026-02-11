@@ -2,4 +2,4 @@
 .vscode/
 uv.lock
 algos-env
-.venv
+.venvvenv/
